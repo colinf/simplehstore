@@ -10,8 +10,8 @@ import (
 	"crypto/sha256"
 	"io"
 
+	"github.com/colinf/pinterface"
 	"github.com/xyproto/cookie/v2"
-	"github.com/xyproto/pinterface"
 )
 
 const hashmapname = "testhashmap"

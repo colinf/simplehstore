@@ -3,7 +3,7 @@ package simplehstore
 import (
 	"testing"
 
-	"github.com/xyproto/pinterface"
+	"github.com/colinf/pinterface"
 )
 
 const listname = "testlist"

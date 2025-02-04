@@ -1,7 +1,7 @@
 package simplehstore
 
 import (
-	"github.com/xyproto/pinterface"
+	"github.com/colinf/pinterface"
 )
 
 // PostgresCreator is a general struct to create datatypes with.

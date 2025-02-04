@@ -3,7 +3,7 @@ package main
 import (
 	"log"
 
-	db "github.com/xyproto/simplehstore"
+	db "github.com/colinf/simplehstore"
 )
 
 func main() {

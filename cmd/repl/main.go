@@ -5,8 +5,8 @@ import (
 	"os"
 	"strings"
 
+	"github.com/colinf/simplehstore"
 	"github.com/xyproto/ask"
-	"github.com/xyproto/simplehstore"
 )
 
 func checkError(err error) {
